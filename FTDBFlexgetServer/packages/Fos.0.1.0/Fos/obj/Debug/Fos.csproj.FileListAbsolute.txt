@@ -1,0 +1,6 @@
+C:\Users\mzabani\Documents\Projects\Fos\Fos\bin\Debug\Fos.dll
+C:\Users\mzabani\Documents\Projects\Fos\Fos\bin\Debug\Fos.pdb
+C:\Users\mzabani\Documents\Projects\Fos\Fos\bin\Debug\FastCgiNet.dll
+C:\Users\mzabani\Documents\Projects\Fos\Fos\bin\Debug\Owin.dll
+C:\Users\mzabani\Documents\Projects\Fos\Fos\obj\Debug\Fos.dll
+C:\Users\mzabani\Documents\Projects\Fos\Fos\obj\Debug\Fos.pdb

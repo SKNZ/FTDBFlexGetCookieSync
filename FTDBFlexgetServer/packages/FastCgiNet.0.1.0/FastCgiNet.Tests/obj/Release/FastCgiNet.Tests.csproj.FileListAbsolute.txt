@@ -1,0 +1,4 @@
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Release\FastCgiNet.Tests.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Release\FastCgiNet.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\obj\Release\FastCgiNet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\obj\Release\FastCgiNet.Tests.dll

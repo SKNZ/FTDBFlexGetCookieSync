@@ -1,0 +1,7 @@
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Debug\FastCgiNet.Tests.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Debug\FastCgiNet.Tests.pdb
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Debug\FastCgiNet.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\bin\Debug\FastCgiNet.pdb
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\obj\Debug\FastCgiNet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\obj\Debug\FastCgiNet.Tests.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet.Tests\obj\Debug\FastCgiNet.Tests.pdb

@@ -1,0 +1,2 @@
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet\bin\Release\FastCgiNet.dll
+C:\Users\mzabani\Documents\Projects\FastCgiNet\FastCgiNet\obj\Release\FastCgiNet.dll

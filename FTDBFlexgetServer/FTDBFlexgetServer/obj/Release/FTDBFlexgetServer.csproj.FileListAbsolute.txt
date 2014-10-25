@@ -1,0 +1,13 @@
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\FTDBFlexgetServer.exe.config
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\FTDBFlexgetServer.exe
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\FTDBFlexgetServer.pdb
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\FastCgiNet.dll
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Fos.dll
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Nancy.dll
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Nancy.Owin.dll
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Owin.dll
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Nancy.xml
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\bin\Release\Nancy.Owin.xml
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\obj\Release\FTDBFlexgetServer.exe
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\obj\Release\FTDBFlexgetServer.pdb
+F:\Development\FTDBFlexgetServer\FTDBFlexgetServer\obj\Release\FTDBFlexgetServer.csprojResolveAssemblyReference.cache
